@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Denis.</h1>
-<h3 align="center">SDET / QA Automation Senior Engineer</h3>
+<h3 align="center">SDET / QA Automation Senior Engineer / Test Senior Engineer</h3>
 
 <p align="center">Russian (native), English (B2), German (A2)</p>
 <h2>Projects</h2>
