@@ -13,12 +13,13 @@
 </p>
 <h2>Stack</h2>
 <h3>Languages</h3>
-</p>
 
+<p>
 <img alt="Python" src="https://abrudz.github.io/logos/Python.svg" width="100" height="100">
 <img alt= "Bash" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" width="100" height="100">
 <img alt= "Groovy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/groovy/groovy-original.svg" width="100" height="100">
 <img alt= "HTML version 5" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" width="100" height="100">
+</p>
 <h3>Frameworks</h3>
 <img alt= "Pytest" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original-wordmark.svg" width="100" height="100">
 <img alt= "Robotframework" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="100" height="100">
