@@ -31,7 +31,7 @@ Ingolstadt, Germany
 <h3>Tools</h3>
 <p>
 <img alt= "Pytest" title="Pytest" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original-wordmark.svg" width="50" height="50">
-<img alt= "Allure" title="Allure" src="https://camo.githubusercontent.com/501c9d05b6660ba5e1a8753b8461e60d7ff1614656102c254ab800e14a6b19fa/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" width="50" height="50">
+<img alt= "Allure" title="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50">
 <img alt= "Robotframework" title="Robotframework" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="50" height="50">
 <img alt= "Flask" title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50">
 <img alt= "Celery" title="Celery" src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png?raw=true" width="50" height="50">
