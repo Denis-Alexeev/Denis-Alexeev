@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Denis.</h1>
 <h3 align="center">SDET / QA Automation Senior Engineer / Test Senior Engineer</h3>
 
-<p align="center">Russian (native), English (B2), German (A2)</p>
+<p align="center">Russian (native), English (B2), German (B1+)</p>
 <p align="center">
 <a href="https://leetcode.com/u/DenisAlexeev/">
 <img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%3Asolved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDenisAlexeev&logo=leetcode&logoColor=yellow">
