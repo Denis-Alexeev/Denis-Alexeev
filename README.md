@@ -15,6 +15,8 @@ Ingolstadt, Germany
 <a href="https://linkedin.com/in/denis-alekseew"><img alt= "LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50"></a>
 <a href="https://github.com/Denis-Alexeev"><img alt= "GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/2560px-GitHub_Invertocat_Logo.svg.png" width="50" height="50"></a>
 </p>
+<h2>PGP Public Key</h2>
+<a href="https://github.com/Denis-Alexeev/Denis-Alexeev/blob/master/publickey.asc">publickey.asc</a>
 <h2>Projects</h2>
 
 [Pytest Glamor Allure](https://github.com/Denis-Alexeev/pytest-glamor-allure) - pytest plugin for improving allure appearance
