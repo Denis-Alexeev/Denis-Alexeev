@@ -15,11 +15,11 @@ Strong focus on full-stack test automation: from test strategy and scenario desi
 _Ingolstadt, Germany | Nov 2022 – Present_  
   
 - Domain: Automotive Software
-- Designed end-to-end test scenarios based on system requirements and architecture, covering update, OTA, proxy and diagnostic subsystems
+- Designed end-to-end test scenarios based on requirements, covering update, OTA, proxy and diagnostic subsystems
 - Rewrote 2 testing frameworks from Robot Framework with Python and Pytest, **reducing regression test time by 38%**
 - Designed and implemented a Kotlin-based testing framework, **improving** test automation efficiency **by 30%** and enabling **faster regression cycles**
 - Built **5+ internal automation solutions** (Python, Kotlin, Bash) to streamline testing workflows, improve test coverage, and **detect bugs earlier** in the development cycle.
-- Built and managed **GitHub Actions CI/CD pipelines**, enabling a team of 15+ engineers to deploy and test code more efficiently
+- Built **GitHub Actions CI/CD pipelines**, enabling a team of 15+ engineers to deploy and test code more efficiently
 - **Mentored** junior and middle QA engineers on automated testing best practices and framework usage
 
 #### Senior QA Engineer / SDET | Yadro (Storage & Hardware) | [yadro.com](https://yadro.com)
@@ -27,10 +27,10 @@ _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 
 - Domain: Storage Hardware & Software
 - Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance for storage hardware and software
-- Acted as SDET: combined software engineering and QA by developing test frameworks, internal services and automation tooling
+- Acted as SDET: software engineering and QA, developing test frameworks, internal services and automation tooling
 - Developed **2 Pytest-based frameworks** adopted by the QA team, standardizing automated testing processes and improving maintainability of test scripts
 - Developed internal automation services using Flask, Celery, and Redis, streamlining test reporting and **reducing manual QA tasks by 60%**
-- Created **custom Pytest plugins** for internal QA processes, enabling standardized test execution and improving team productivity
+- Created **custom Pytest plugins** for internal QA processes, improving team productivity
 - Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles  
 
 <!-- blockkeep-start -->
