@@ -1,55 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Denis.</h1>
-<h3 align="center">SDET / QA Automation Senior Engineer / Test Senior Engineer</h3>
+# Denis Alekseev
+**Location:** Ingolstadt, Bavaria, Germany  
+**Email:** herr.alekseev.denis+githubcv@gmail.com  
+**GitHub:** https://github.com/Denis-Alexeev  
+**LinkedIn:** https://linkedin.com/in/denis-alekseew  
 
-<p align="center">Russian (native), English (B2), German (B1+)</p>
-<p align="center">
-<a href="https://leetcode.com/u/DenisAlexeev/">
-<img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%3Asolved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDenisAlexeev&logo=leetcode&logoColor=yellow">
-</a>
-</p>
-<h2>Location</h2>
-Ingolstadt, Germany
-<h2>Contacts</h2>
-<p>
-<a href="https://t.me/DenisAlekseev123"><img alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="50" height="50"></a>
-<a href="https://linkedin.com/in/denis-alekseew"><img alt= "LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50"></a>
-<a href="https://github.com/Denis-Alexeev"><img alt= "GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/2560px-GitHub_Invertocat_Logo.svg.png" width="50" height="50"></a>
-</p>
-<h2>PGP Public Key</h2>
-<a href="https://github.com/Denis-Alexeev/Denis-Alexeev/blob/master/publickey.asc">publickey.asc</a>
-<h2>Projects</h2>
+## Senior QA Automation Engineer / SDET
+Senior SDET with 6+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
+Strong focus on full-stack test automation: from test strategy and scenario design to framework implementation, CI/CD integration and test infrastructure.  
+**Author of a popular open-source testing plugin with almost 400k downloads.**  
 
-[Pytest Glamor Allure](https://github.com/Denis-Alexeev/pytest-glamor-allure) - pytest plugin for improving allure appearance
+### Professional Experience
+#### \# Senior QA Automation Engineer | Luxoft (Automotive - Cariad) - [luxoft.com](https://luxoft.com), [cariad.technology](https://cariad.technology)
+_Ingolstadt, Germany | Nov 2022 – Present_  
+  
+- Designed end-to-end test scenarios based on system requirements and architecture, covering update, OTA, proxy and diagnostic subsystems
+- Rewrote 2 testing frameworks from Robot Framework with Python and Pytest, **reducing regression test time by 38%**
+- Designed and implemented a Kotlin-based testing framework, **improving** test automation efficiency **by 30%** and enabling **faster regression cycles**
+- Built **5+ internal automation solutions** (Python, Kotlin, Bash) to streamline testing workflows, improve test coverage, and **detect bugs earlier** in the development cycle.
+- Built and managed **GitHub Actions CI/CD pipelines**, enabling a team of 15+ engineers to deploy and test code more efficiently
+- **Mentored** junior and middle QA engineers on automated testing best practices and framework usage
 
-<h2>Stack</h2>
-<h3>Languages</h3>
+#### \# Senior QA Engineer / SDET | Yadro (Storage & Hardware) [yadro.com](https://yadro.com/)
+_Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 
-<p>
-<img alt="Python" title="Python" src="https://abrudz.github.io/logos/Python.svg" width="50" height="50">
-<img alt= "Bash" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" width="50" height="50">
-<img alt= "Groovy" title="Groovy" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/groovy/groovy-original.svg" width="50" height="50">
-<img alt= "HTML version 5" title="HTML version 5" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" width="50" height="50">
-</p>
-<h3>Tools</h3>
-<p>
-<img alt= "Pytest" title="Pytest" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original-wordmark.svg" width="50" height="50">
-<img alt= "Allure" title="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50">
-<img alt= "Robotframework" title="Robotframework" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="50" height="50">
-<img alt= "Flask" title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50">
-<img alt= "Celery" title="Celery" src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png?raw=true" width="50" height="50">
-<img alt= "Playwright" title="Playwright" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/playwright/playwright-original.svg" width="50" height="50">
-<img alt= "Selenium" title="Selenium" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" width="50" height="50">
-<img alt= "Plotly" title="Plotly" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/plotly/plotly-original-wordmark.svg" width="50" height="50">
-<img alt= "GitHub Actions" title="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" width="50" height="50">
-<img alt= "Jenkins" title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg" width="50" height="50">
-<img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
-<img alt= "Redis" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original-wordmark.svg" width="50" height="50">
-<img alt= "Nginx" title="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nginx/nginx-original.svg" width="50" height="50">
-<img alt= "Apache" title="Apache" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original-wordmark.svg" width="50" height="50">
-<img alt= "Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" width="50" height="50">
-<img alt= "qemu" title="qemu" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" width="50" height="50">
-<img alt= "VirtualBox" title="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50" height="50">
-<img alt= "Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original-wordmark.svg" width="50" height="50">
-<img alt= "VSCode" title="VSCode" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">
-<img alt= "Pycharm" title="Pycharm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg" width="50" height="50">
-</p>
+- Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance
+- Acted as SDET: combined software engineering and QA by developing test frameworks, internal services and automation tooling
+- Developed **2 Pytest-based frameworks** adopted by the QA team, standardizing automated testing processes and improving maintainability of test scripts
+- Developed internal automation services using Flask, Celery, and Redis, streamlining test reporting and **reducing manual QA tasks by 60%**
+- Created **custom Pytest plugins** for internal QA processes, enabling standardized test execution and improving team productivity
+- Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles
+
+#### \# Middle QA Automation Engineer | Genesys (Contact Center Software) [genesys.com](https://www.genesys.com/)
+_Saint Petersburg, Russia | Aug 2019 – Oct 2020_
+
+- Implemented cross-platform **test automation on Linux/Windows** environments with scripts, ensuring consistent results across development and staging
+- Collaborated with product and development teams to **identify critical user scenarios**, increasing test coverage for high-risk workflows 
+- Supported and extended existing Selenium/Nose test suites, **improving test stability** and **reducing flaky tests** in CI
+### Languages
+
+- Russian – Native
+- English – B2
+- German – B2
+
+### Technical Skills
+
+- Test Scenario Design & Test Architecture
+- Test Automation & Framework Design
+- Object-Oriented Programming (OOP)
+- CI/CD Pipelines
+- Test Infrastructure & Tooling
+- Debugging & Root Cause Analysis
+- Linux & Automation Scripting
+
+### Soft Skills
+
+- Problem Solving & Root Cause Analysis
+- Analytical Thinking
+- Ownership & Quality Mindset
+- Cross-functional Team Collaboration
+- Requirements Analysis
+- Time Management & Prioritization
+- Continuous Improvement Mindset
+- Mentoring
+
+**Programming and Scripting Languages:** Python, Kotlin, bash  
+**Test Automation:** Pytest, Selenium, Playwright, Robot Framework, Allure, JUnit, Kotest, Nose  
+**CI/CD:** Jenkins, GitHub Actions  
+**Frameworks:** Flask, Celery  
+**Infrastructure & OS:** Linux, AOSP, Docker, QEMU, Nginx, Apache HTTP Server  
+**Datastores & Messaging:** Redis, MongoDB  
+
+### Education
+
+**Specialist Degree (equivalent to M.Sc.)**  
+**in Engineering of Air Navigation Support of Flights**  
+Saint-Petersburg State University of Civil Aviation, Russia  
+***Graduated with Honors***
+
+### Projects
+
+- Author of an Open-source Test Automation Tooling: pytest-glamor-allure plugin
+- Almost 400k downloads on PyPI, widely adopted by the QA automation community
+- Designed and maintained the plugin, focusing on extensibility, usability, and CI integration
+- GitHub: https://github.com/Denis-Alexeev/pytest-glamor-allure
+- PyPI: https://pypi.org/project/pytest-glamor-allure/
