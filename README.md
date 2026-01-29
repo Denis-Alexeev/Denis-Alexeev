@@ -30,12 +30,15 @@ _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 - Created **custom Pytest plugins** for internal QA processes, enabling standardized test execution and improving team productivity
 - Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles
 
+<!-- blockkeep-start -->
 #### \# Middle QA Automation Engineer | Genesys (Contact Center Software) [genesys.com](https://www.genesys.com/)
 _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 - Implemented cross-platform **test automation on Linux/Windows** environments with scripts, ensuring consistent results across development and staging
 - Collaborated with product and development teams to **identify critical user scenarios**, increasing test coverage for high-risk workflows 
-- Supported and extended existing Selenium/Nose test suites, **improving test stability** and **reducing flaky tests** in CI
+- Supported and extended existing Selenium/Nose test suites, **improving test stability** and **reducing flaky tests** in CI  
+<!-- blockkeep-end -->
+
 ### Languages
 
 - Russian – Native
