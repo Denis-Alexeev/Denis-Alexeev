@@ -1,4 +1,8 @@
 \documentclass[11pt,a4paper]{article}
+
+% ---------------------------
+% Encoding and fonts
+% ---------------------------
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -7,19 +11,29 @@
 \usepackage{titlesec}
 \usepackage{enumitem}
 \usepackage{parskip}
-\usepackage{fancyhdr}
 
+% ---------------------------
+% Page margins
+% ---------------------------
 \geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
-\pagestyle{fancy}
-\fancyhf{}
-\rhead{\textit{Denis Alexeev}}
-\lhead{\textit{Resume}}
-\cfoot{\thepage}
 
-\titleformat{\section}{\large\bfseries}{}{0em}{}
-\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
-\titleformat{\subsubsection}{\normalsize\itshape}{}{0em}{}
+% ---------------------------
+% Remove headers and footers completely
+% ---------------------------
+\pagestyle{empty}
 
+% ---------------------------
+% Heading styles for all Markdown levels
+% ---------------------------
+\titleformat{\section}{\Huge\bfseries}{}{0em}{}
+\titleformat{\subsection}{\LARGE\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\Large\bfseries}{}{0em}{}
+\titleformat{\paragraph}{\large\bfseries}{}{0em}{}
+\titleformat{\subparagraph}{\normalsize\bfseries}{}{0em}{}
+
+% ---------------------------
+% List settings
+% ---------------------------
 \setlist[itemize]{noitemsep, topsep=0pt}
 
 % ---------------------------
@@ -28,10 +42,30 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
+% ---------------------------
+% Package to prevent page breaks inside blocks
+% ---------------------------
+\usepackage{needspace}
+
+% ---------------------------
+% Title (Name)
+% ---------------------------
 $if(title)$
+\makeatletter
+\def\maketitle{
+  \begin{center}
+    {\LARGE \bfseries \@title \par}
+  \end{center}
+  \vspace{1em}
+}
+\makeatother
 \title{$title$}
+\maketitle
 $endif$
 
+% ---------------------------
+% Begin document
+% ---------------------------
 \begin{document}
 
 $for(include-before)$
