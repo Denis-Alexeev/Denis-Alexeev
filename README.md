@@ -80,8 +80,7 @@ _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 ### Education
 
-**Specialist Degree (equivalent to M.Sc. in Engineering)**  
-**in Engineering of Air Navigation Support of Flights**  
+**M.Sc. in Engineering of Air Navigation**  
 Saint-Petersburg State University of Civil Aviation, Russia  
 *Graduated with Honors*
 
