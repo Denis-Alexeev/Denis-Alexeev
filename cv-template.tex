@@ -22,6 +22,12 @@
 
 \setlist[itemize]{noitemsep, topsep=0pt}
 
+% ---------------------------
+% Pandoc tightlist fix
+% ---------------------------
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 $if(title)$
 \title{$title$}
 $endif$
