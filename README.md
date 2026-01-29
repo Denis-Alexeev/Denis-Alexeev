@@ -3,6 +3,7 @@
 **Email:** herr.alekseev.denis\+githubcv@gmail.com  
 **GitHub:** https://github.com/Denis-Alexeev  
 **LinkedIn:** https://linkedin.com/in/denis-alekseew  
+**CV Download:** https://raw.githubusercontent.com/Denis-Alexeev/Denis-Alexeev/master/outputs/CV_Denis_Alekseev.pdf
 
 ## Senior QA Automation Engineer / SDET
 Senior SDET with 6+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
