@@ -28,17 +28,23 @@
 \setlist[itemize]{noitemsep, topsep=0pt}
 
 % ---------------------------
-% Hyperlinks
+% Hyperlinks with real underline
 % ---------------------------
+\usepackage[normalem]{ulem} % allows underlining without affecting emphasis
+\usepackage{xcolor}         % for colors if needed
 \usepackage{hyperref}
+
 \hypersetup{
-    colorlinks=false,           % keep link text the same color as normal text
-    linkcolor=black,            % just in case, set internal link color to black
-    urlcolor=black,             % set URL color to black
-    citecolor=black,            % set citation link color to black
-    pdfborder={0 0 1},          % only underline (no top or side borders)
-    pdfborderstyle={/S/U/W 0.5} % underline style: /S = style, /U = underline, /W = line width (0.5pt)
+    colorlinks=true,  % make links clickable
+    linkcolor=black,  % black link text
+    urlcolor=black,
+    citecolor=black
 }
+
+% Redefine \href to automatically underline text
+\let\oldhref\href
+\renewcommand{\href}[2]{\uline{\oldhref{#1}{#2}}}
+
 
 % ---------------------------
 % Remove headers and footers
