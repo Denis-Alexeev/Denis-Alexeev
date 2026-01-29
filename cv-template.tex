@@ -1,0 +1,69 @@
+% -*- coding: utf-8 -*-
+\documentclass[11pt,a4paper]{article}
+
+% ---------------------------
+% Packages
+% ---------------------------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem
+\usepackage{parskip}
+\usepackage{fancyhdr}
+
+% ---------------------------
+% Page parameters
+% ---------------------------
+\geometry{
+  top=2cm,
+  bottom=2cm,
+  left=2cm,
+  right=2cm
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textit{Denis Alexeev}}
+\lhead{\textit{Resume}}
+\cfoot{\thepage}
+
+% ---------------------------
+% Headers
+% ---------------------------
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalsize\itshape}{}{0em}{}
+
+% ---------------------------
+% Lists
+% ---------------------------
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+% ---------------------------
+% Blockkeep
+% ---------------------------
+\newenvironment{blockkeep}{\begin{samepage}}{\end{samepage}}
+
+% ---------------------------
+% Metadata
+% ---------------------------
+$if(title)$
+\title{$title$}
+$endif$
+
+\begin{document}
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}
