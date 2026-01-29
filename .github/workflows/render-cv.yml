@@ -24,11 +24,7 @@ jobs:
         run: mkdir -p outputs
 
       - name: Generate PDF from README.md
-        run: pandoc README.md \
-            -o outputs/CV_Denis_Alekseev.pdf \
-            --pdf-engine=xelatex \
-            --template=cv-template.tex \
-            --lua-filter=blockkeep.lua
+        run: pandoc README.md -o outputs/CV_Denis_Alekseev.pdf --pdf-engine=xelatex --template=cv-template.tex --lua-filter=blockkeep.lua
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
