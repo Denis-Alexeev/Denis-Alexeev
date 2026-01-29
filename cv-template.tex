@@ -1,49 +1,52 @@
 \documentclass[11pt,a4paper]{article}
 
 % ---------------------------
-% Encoding and fonts
+% Unicode font (Times New Roman)
 % ---------------------------
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}  % main text
+\setsansfont{Arial}            % optional: sans serif
+\setmonofont{Courier New}      % optional: monospace
+
+% ---------------------------
+% Page layout and spacing
+% ---------------------------
 \usepackage{geometry}
-\usepackage{hyperref}
+\geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
+\usepackage{parskip}           % add space between paragraphs
+
+% ---------------------------
+% Headings and lists
+% ---------------------------
 \usepackage{titlesec}
 \usepackage{enumitem}
-\usepackage{parskip}
 
-% ---------------------------
-% Page margins
-% ---------------------------
-\geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
-
-% ---------------------------
-% Remove headers and footers completely
-% ---------------------------
-\pagestyle{empty}
-
-% ---------------------------
-% Heading styles for all Markdown levels
-% ---------------------------
 \titleformat{\section}{\Huge\bfseries}{}{0em}{}
 \titleformat{\subsection}{\LARGE\bfseries}{}{0em}{}
 \titleformat{\subsubsection}{\Large\bfseries}{}{0em}{}
 \titleformat{\paragraph}{\large\bfseries}{}{0em}{}
 \titleformat{\subparagraph}{\normalsize\bfseries}{}{0em}{}
 
-% ---------------------------
-% List settings
-% ---------------------------
 \setlist[itemize]{noitemsep, topsep=0pt}
 
 % ---------------------------
-% Pandoc tightlist fix
+% Hyperlinks
+% ---------------------------
+\usepackage{hyperref}
+
+% ---------------------------
+% Remove headers and footers
+% ---------------------------
+\pagestyle{empty}
+
+% ---------------------------
+% Tightlist fix for Pandoc
 % ---------------------------
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % ---------------------------
-% Package to prevent page breaks inside blocks
+% Prevent page breaks in blocks
 % ---------------------------
 \usepackage{needspace}
 
