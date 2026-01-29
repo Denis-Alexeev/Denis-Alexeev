@@ -40,6 +40,14 @@ _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 - Supported and extended existing Selenium/Nose test suites, **improving test stability** and **reducing flaky tests** in CI  
 <!-- blockkeep-end -->
 
+### Stack
+- **Programming and Scripting Languages:** Python, Kotlin, bash  
+- **Test Automation:** Pytest, Selenium, Playwright, Robot Framework, Allure, JUnit, Kotest, Nose  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Frameworks:** Flask, Celery  
+- **Infrastructure & OS:** Linux, AOSP, Docker, QEMU, Nginx, Apache HTTP Server  
+- **Datastores & Messaging:** Redis, MongoDB 
+
 ### Languages
 
 - Russian – Native
@@ -65,14 +73,7 @@ _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 - Requirements Analysis
 - Time Management & Prioritization
 - Continuous Improvement Mindset
-- Mentoring
-
-**Programming and Scripting Languages:** Python, Kotlin, bash  
-**Test Automation:** Pytest, Selenium, Playwright, Robot Framework, Allure, JUnit, Kotest, Nose  
-**CI/CD:** Jenkins, GitHub Actions  
-**Frameworks:** Flask, Celery  
-**Infrastructure & OS:** Linux, AOSP, Docker, QEMU, Nginx, Apache HTTP Server  
-**Datastores & Messaging:** Redis, MongoDB  
+- Mentoring 
 
 ### Education
 
