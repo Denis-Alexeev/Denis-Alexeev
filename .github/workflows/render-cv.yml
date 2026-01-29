@@ -1,0 +1,44 @@
+name: Render CV PDF
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "cv-template.tex"
+      - "blockkeep.lua"
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create outputs directory
+        run: mkdir -p outputs
+
+      - name: Generate PDF from README.md
+        uses: docker://pandoc/extra:3.7
+        with:
+          args: |
+            README.md \
+            -o outputs/CV_Denis_Alekseev.pdf \
+            --template=cv-template.tex \
+            --pdf-engine=xelatex \
+            --lua-filter=blockkeep.lua
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Resume PDF
+          path: outputs/CV_Denis_Alekseev.pdf
+
+      - name: Commit and push PDF to repository
+        if: ${{ github.repository_owner == 'Denis-Alexeev' && github.ref == 'refs/heads/master' }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/CV_Denis_Alekseev.pdf
+          git commit -m "Update generated Resume PDF [skip ci]" || echo "No changes to commit"
+          git push
