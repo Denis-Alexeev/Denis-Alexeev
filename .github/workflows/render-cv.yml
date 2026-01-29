@@ -2,10 +2,8 @@ name: Render CV PDF
 
 on:
   push:
-    paths:
-      - "README.md"
-      - "cv-template.tex"
-      - "blockkeep.lua"
+    branches:
+      - master
 
 jobs:
   build_pdf:
@@ -15,16 +13,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false 
+          persist-credentials: false
+
+      - name: Install Pandoc, XeLaTeX and fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-texgyre
 
       - name: Create outputs directory
         run: mkdir -p outputs
 
       - name: Generate PDF from README.md
-        uses: docker://pandoc/extra:3.7
-        with:
-          args: README.md -o outputs/CV_Denis_Alekseev.pdf --template=cv-template.tex --pdf-engine=xelatex --lua-filter=blockkeep.lua
-
+        run: pandoc README.md \
+            -o outputs/CV_Denis_Alekseev.pdf \
+            --pdf-engine=xelatex \
+            --template=cv-template.tex \
+            --lua-filter=blockkeep.lua
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
@@ -32,7 +36,7 @@ jobs:
           name: Resume PDF
           path: outputs/CV_Denis_Alekseev.pdf
 
-      - name: Commit PDF back to repository
+      - name: Commit PDF back to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
