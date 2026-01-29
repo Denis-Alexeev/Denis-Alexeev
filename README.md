@@ -3,7 +3,7 @@
 **Email:** herr.alekseev.denis\+githubcv@gmail.com  
 **GitHub:** https://github.com/Denis-Alexeev  
 **LinkedIn:** https://linkedin.com/in/denis-alekseew  
-**CV Download:** https://raw.githubusercontent.com/Denis-Alexeev/Denis-Alexeev/master/outputs/CV_Denis_Alekseev.pdf
+**CV:** https://raw.githubusercontent.com/Denis-Alexeev/Denis-Alexeev/master/outputs/CV_Denis_Alekseev.pdf
 
 ## Senior QA Automation Engineer / SDET
 Senior SDET with 6+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
@@ -11,7 +11,7 @@ Strong focus on full-stack test automation: from test strategy and scenario desi
 **Author of a popular open-source testing plugin with almost 400k downloads.**  
 
 ### Professional Experience
-#### Senior QA Automation Engineer | Luxoft (Automotive - Cariad) - [luxoft.com](https://luxoft.com), [cariad.technology](https://cariad.technology)
+#### Senior QA Automation Engineer | Luxoft (Automotive - Cariad) | https://luxoft.com, https://cariad.technology
 _Ingolstadt, Germany | Nov 2022 – Present_  
   
 - Designed end-to-end test scenarios based on system requirements and architecture, covering update, OTA, proxy and diagnostic subsystems
@@ -21,7 +21,7 @@ _Ingolstadt, Germany | Nov 2022 – Present_
 - Built and managed **GitHub Actions CI/CD pipelines**, enabling a team of 15+ engineers to deploy and test code more efficiently
 - **Mentored** junior and middle QA engineers on automated testing best practices and framework usage
 
-#### Senior QA Engineer / SDET | Yadro (Storage & Hardware) [yadro.com](https://yadro.com/)
+#### Senior QA Engineer / SDET | Yadro (Storage & Hardware) | https://yadro.com/
 _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 
 - Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance
@@ -32,7 +32,7 @@ _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 - Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles  
 
 <!-- blockkeep-start -->
-#### Middle QA Automation Engineer | Genesys (Contact Center Software) [genesys.com](https://www.genesys.com/)
+#### Middle QA Automation Engineer | Genesys (Contact Center Software) | https://www.genesys.com/
 _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 - Implemented cross-platform **test automation on Linux/Windows** environments with scripts, ensuring consistent results across development and staging
