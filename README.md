@@ -14,6 +14,7 @@ Strong focus on full-stack test automation: from test strategy and scenario desi
 #### Senior QA Automation Engineer | Luxoft (Automotive - Cariad) | [luxoft.com](https://luxoft.com), [cariad.technology](https://cariad.technology)
 _Ingolstadt, Germany | Nov 2022 – Present_  
   
+- Domain: Automotive Software
 - Designed end-to-end test scenarios based on system requirements and architecture, covering update, OTA, proxy and diagnostic subsystems
 - Rewrote 2 testing frameworks from Robot Framework with Python and Pytest, **reducing regression test time by 38%**
 - Designed and implemented a Kotlin-based testing framework, **improving** test automation efficiency **by 30%** and enabling **faster regression cycles**
@@ -24,7 +25,8 @@ _Ingolstadt, Germany | Nov 2022 – Present_
 #### Senior QA Engineer / SDET | Yadro (Storage & Hardware) | [yadro.com](https://yadro.com)
 _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 
-- Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance
+- Domain: Storage Hardware & Software
+- Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance for storage hardware and software
 - Acted as SDET: combined software engineering and QA by developing test frameworks, internal services and automation tooling
 - Developed **2 Pytest-based frameworks** adopted by the QA team, standardizing automated testing processes and improving maintainability of test scripts
 - Developed internal automation services using Flask, Celery, and Redis, streamlining test reporting and **reducing manual QA tasks by 60%**
@@ -35,6 +37,7 @@ _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 #### Middle QA Automation Engineer | Genesys (Contact Center Software) | [genesys.com](https://genesys.com)
 _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
+- Domain: Contact Center Software (Web Application)
 - Implemented cross-platform **test automation on Linux/Windows** environments with scripts, ensuring consistent results across development and staging
 - Collaborated with product and development teams to **identify critical user scenarios**, increasing test coverage for high-risk workflows 
 - Supported and extended existing Selenium/Nose test suites, **improving test stability** and **reducing flaky tests** in CI  
@@ -77,7 +80,7 @@ _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 ### Education
 
-**Specialist Degree (equivalent to M.Sc.)**  
+**Specialist Degree (equivalent to M.Sc. in Engineering)**  
 **in Engineering of Air Navigation Support of Flights**  
 Saint-Petersburg State University of Civil Aviation, Russia  
 *Graduated with Honors*
