@@ -10,7 +10,7 @@ Strong focus on full-stack test automation: from test strategy and scenario desi
 **Author of a popular open-source testing plugin with almost 400k downloads.**  
 
 ### Professional Experience
-#### \# Senior QA Automation Engineer | Luxoft (Automotive - Cariad) - [luxoft.com](https://luxoft.com), [cariad.technology](https://cariad.technology)
+#### Senior QA Automation Engineer | Luxoft (Automotive - Cariad) - [luxoft.com](https://luxoft.com), [cariad.technology](https://cariad.technology)
 _Ingolstadt, Germany | Nov 2022 – Present_  
   
 - Designed end-to-end test scenarios based on system requirements and architecture, covering update, OTA, proxy and diagnostic subsystems
@@ -20,7 +20,7 @@ _Ingolstadt, Germany | Nov 2022 – Present_
 - Built and managed **GitHub Actions CI/CD pipelines**, enabling a team of 15+ engineers to deploy and test code more efficiently
 - **Mentored** junior and middle QA engineers on automated testing best practices and framework usage
 
-#### \# Senior QA Engineer / SDET | Yadro (Storage & Hardware) [yadro.com](https://yadro.com/)
+#### Senior QA Engineer / SDET | Yadro (Storage & Hardware) [yadro.com](https://yadro.com/)
 _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 
 - Took full ownership of test scenario design, from requirements analysis to automated implementation and maintenance
@@ -28,10 +28,10 @@ _Saint Petersburg, Russia | Oct 2020 – Nov 2022_
 - Developed **2 Pytest-based frameworks** adopted by the QA team, standardizing automated testing processes and improving maintainability of test scripts
 - Developed internal automation services using Flask, Celery, and Redis, streamlining test reporting and **reducing manual QA tasks by 60%**
 - Created **custom Pytest plugins** for internal QA processes, enabling standardized test execution and improving team productivity
-- Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles
+- Built and maintained **CI/CD pipelines in Jenkins**, accelerating deployment cycles  
 
 <!-- blockkeep-start -->
-#### \# Middle QA Automation Engineer | Genesys (Contact Center Software) [genesys.com](https://www.genesys.com/)
+#### Middle QA Automation Engineer | Genesys (Contact Center Software) [genesys.com](https://www.genesys.com/)
 _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 - Implemented cross-platform **test automation on Linux/Windows** environments with scripts, ensuring consistent results across development and staging
