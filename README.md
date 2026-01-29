@@ -1,6 +1,6 @@
 # Denis Alekseev
 **Location:** Ingolstadt, Bavaria, Germany  
-**Email:** herr.alekseev.denis+githubcv@gmail.com  
+**Email:** herr.alekseev.denis\+githubcv@gmail.com  
 **GitHub:** https://github.com/Denis-Alexeev  
 **LinkedIn:** https://linkedin.com/in/denis-alekseew  
 
