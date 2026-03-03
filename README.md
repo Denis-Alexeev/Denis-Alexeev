@@ -53,9 +53,9 @@ _Saint Petersburg, Russia | Aug 2019 – Oct 2020_
 
 ### Languages
 
-- Russian – Native
-- English – B2
-- German – B2
+- German
+- English
+- Russian
 
 ### Technical Skills
 
