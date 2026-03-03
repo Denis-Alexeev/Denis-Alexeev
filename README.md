@@ -6,7 +6,7 @@
 **CV PDF Download:** [denis-alexeev.github.io/CV](https://denis-alexeev.github.io/CV)
 
 ## Senior QA Automation Engineer / SDET
-Senior SDET with 6+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
+Senior SDET with 7+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
 Strong focus on full-stack test automation: from test strategy and scenario design to framework implementation, CI/CD integration and test infrastructure.  
 **Author of a popular open-source testing plugin with almost 400k downloads.**  
 
