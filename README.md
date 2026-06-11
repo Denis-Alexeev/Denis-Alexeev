@@ -1,8 +1,8 @@
 # Denis Alekseev
 **Location:** Ingolstadt, Bavaria, Germany  
 **Email:** [herr.alekseev.denis@gmail.com](mailto:herr.alekseev.denis@gmail.com)  
-**Telegram:** [DenisAlekseev_De](https://t.me/DenisAlekseev_De)
-**Signal:** [Denis.820](https://signal.me/#eu/CRIwGTeqo3AajRXgo-I0-XRyQQnk2cYiJk-hitu37USvOyGnveJHkI6KTwtJPToQ)
+**Telegram:** [DenisAlekseev_De](https://t.me/DenisAlekseev_De)  
+**Signal:** [Denis.820](https://signal.me/#eu/CRIwGTeqo3AajRXgo-I0-XRyQQnk2cYiJk-hitu37USvOyGnveJHkI6KTwtJPToQ)  
 **GitHub:** [github.com/Denis-Alexeev](https://github.com/Denis-Alexeev)  
 **LinkedIn:** [linkedin.com/in/denis-alekseew](https://linkedin.com/in/denis-alekseew)  
 **CV PDF Download:** [denis-alexeev.github.io/CV](https://denis-alexeev.github.io/CV)
