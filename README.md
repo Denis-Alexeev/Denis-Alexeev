@@ -8,7 +8,7 @@
 **CV PDF Download:** [denis-alexeev.github.io/CV](https://denis-alexeev.github.io/CV)
 
 ## Senior QA Automation Engineer / SDET
-Senior SDET with 7+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
+Senior SDET with 8+ years of experience in designing test architectures, developing test frameworks and implementing end-to-end automated test scenarios.  
 Strong focus on full-stack test automation: from test strategy and scenario design to framework implementation, CI/CD integration and test infrastructure.  
 **Author of a popular open-source testing plugin with almost 400k downloads.**  
 
@@ -89,7 +89,7 @@ Saint-Petersburg State University of Civil Aviation, Russia
 ### Projects
 
 - Author of an Open-source Test Automation Tooling: pytest-glamor-allure plugin
-- Almost 400k downloads on PyPI, widely adopted by the QA automation community
+- More than 450k downloads on PyPI, widely adopted by the QA automation community
 - Designed and maintained the plugin, focusing on extensibility, usability, and CI integration
 - GitHub: [github.com/Denis-Alexeev/pytest-glamor-allure](https://github.com/Denis-Alexeev/pytest-glamor-allure)
 - PyPI: [pypi.org/project/pytest-glamor-allure](https://pypi.org/project/pytest-glamor-allure/)
